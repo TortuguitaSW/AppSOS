@@ -1,16 +1,16 @@
 # AppSOS
 Proyecto App por Juliana Zuluaga Carvajal y David Guerra Jiménez. 
 
-1. Para clonar el proyecto:
+a. Para clonar el proyecto:
 - Se puede descargar el archivo comprimido que está en https://github.com/TortuguitaSW/AppSOS y extraerlo en una carpeta del equipo.
 - Ingresar a la consola y poner el siguiente comando:
 git clone https://github.com/TortuguitaSW/AppSOS.git
 
-2. Traer cambios desde el repositorio remoto:
+b. Traer cambios desde el repositorio remoto:
 - Ir a la carpeta donde se clonó el proyecto
 - git pull https://github.com/TortuguitaSW/AppSOS.git
 
-3. Enviar los cambios desde el repositorio local:
+c. Enviar los cambios desde el repositorio local:
 - Ir a la carpeta donde está el proyecto
 - Inicializar git:
 git init
